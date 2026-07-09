@@ -1,1 +1,10 @@
-# Mitre-attack-secbert-cda
+# MITRE ATT&CK Technique Classification using SecBERT and Contextual Data Augmentation
+
+
+![Status](https://img.shields.io/badge/status-under%20development-orange)
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
+
+![License](https://img.shields.io/badge/License-MIT-green)
