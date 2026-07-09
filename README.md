@@ -155,7 +155,7 @@ This repository will be released under the MIT License.
 
 ## Contact
 
-**Nguyen Tan Phat**
+**Tan Phat Nguyen**
 
 Faculty of Information Assurance
 
